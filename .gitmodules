@@ -8,3 +8,8 @@
 	url = https://github.com/gongcastro/bvq
 	shallow = true
 	registered = true
+[submodule "formr"]
+	path = formr
+	url = https://github.com/rubenarslan/formr
+	shallow = true
+	registered = false
