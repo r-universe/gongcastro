@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/gongcastro/gongcastro.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "bvq"]
 	path = bvq
 	url = https://github.com/gongcastro/bvq
-	shallow = true
-	registered = true
 [submodule "formr"]
 	path = formr
 	url = https://github.com/rubenarslan/formr
-	shallow = true
 	registered = false
