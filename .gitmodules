@@ -5,7 +5,3 @@
 [submodule "bvq"]
 	path = bvq
 	url = https://github.com/gongcastro/bvq
-[submodule "formr"]
-	path = formr
-	url = https://github.com/rubenarslan/formr
-	registered = false
